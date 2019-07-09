@@ -2,11 +2,11 @@
 
 1. Klasa to **szablon**.
 1. Obiekt to **konkretny egzemplarz klasy**.
-1. Zmienna to **pole klasy, pole, argument metody**. 
+1. Zmienna to **pole, które definiujemy jako: typ nazwaZmiennej;. Tworzenie zmiennej dzielimy na 2 etapy - deklaracja i inicjalizacja**. 
 1. Każda zmienna musi mieć określony **typ**, np. int, albo String.
-1. Jeżeli deklarację zmiennej poprzedzimy słowem final, to **nie możemy zmienić wartości tej zmiennej. Użycie ma zastosowanie np. dla wartości stałych - liczba Pi**.
+1. Jeżeli deklarację zmiennej poprzedzimy słowem final, to **może być zainicjowana tylko raz, próba nadpisania wartośći spowoduje błąd**.
 1. W klasie mogą się znajdować **pola klasy, metody i konstruktory**.
-1. **Obiekty** są wywoływane przez operator **new** i służą do tworzenia nowych obiektów.
+1. **Konstruktory** są wywoływane przez operator **new** i służą do tworzenia nowych obiektów.
 1. Jeśli w klasie zdefiniowano chociaż jeden **konstruktor** to kompilator nie wygeneruje dla nas **konstruktora** domyślnego.
 1. Zakładając, że istnieje klasa Car, to przy zapisie:
 ````java
