@@ -2,7 +2,7 @@
 
 1. Klasa to **szablon**.
 1. Obiekt to **konkretny egzemplarz klasy**.
-1. Zmienna to **element języka pozwalający na przechowywanie wartości, które definiujemy jako: typ nazwaZmiennej;. Tworzenie zmiennej dzielimy na 2 etapy - deklaracja i inicjalizacja**. 
+1. Zmienna to **element języka pozwalający na przechowywanie wartości, którą definiujemy jako: typ nazwaZmiennej;. Tworzenie zmiennej dzielimy na 2 etapy - deklaracja i inicjalizacja**. 
 1. Każda zmienna musi mieć określony **typ**, np. int, albo String.
 1. Jeżeli deklarację zmiennej poprzedzimy słowem final, to **może być zainicjowana tylko raz, próba nadpisania wartości spowoduje błąd**.
 1. W klasie mogą się znajdować **pola klasy, metody i konstruktory**.
